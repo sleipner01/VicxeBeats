@@ -68,7 +68,7 @@ $res = array([
 ]);
 
 require 'vendor/autoload.php';
-\Stripe\Stripe::setApiKey('sk_test_51Ha2bDKDv87jG37EYrClC2x9FNP5Ajk0dTGZv5vpwzxz5IN6wJtskmbfTQWAePX06aAFyZ7DBE61tOmyNi2z3vSP00pRv3FLhG');
+\Stripe\Stripe::setApiKey('sk_test_');
 
 header('Content-Type: application/json');
 
